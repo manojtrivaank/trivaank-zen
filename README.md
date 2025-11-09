@@ -1,0 +1,2 @@
+# trivaank-zen
+A secure place for consumers to scan, store, organize, and act on all their personal paperwork. Digitize bills, receipts, warranties, and medical records, making them findable, actionable, and shareable.
